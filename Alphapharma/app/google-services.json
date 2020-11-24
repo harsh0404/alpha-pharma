@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "810920015766",
+    "firebase_url": "https://alpha-pharma.firebaseio.com",
+    "project_id": "alpha-pharma",
+    "storage_bucket": "alpha-pharma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810920015766:android:026a2cad5da69b713dcfb7",
+        "android_client_info": {
+          "package_name": "com.example.alpha_pharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810920015766-8bdkfhlsagus4c75rgr7q7rmvkau1ast.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNZhWNmTUsY39FGE1bOAWiKu350qMYGtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810920015766-8bdkfhlsagus4c75rgr7q7rmvkau1ast.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
